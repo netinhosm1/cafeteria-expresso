@@ -1,0 +1,71 @@
+:root {
+  --main-color: #d3ad7f;
+  --black-color: #13131a;
+  --white-color: #fff;
+  --bg: #010103;
+  --border: 0.1rem solid rgba(255, 255, 255, 0.3);
+  --font-size: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: 0.3s linear;
+  font-family: "Poppins", serif;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+section {
+  padding: 3rem 2rem;
+  margin: 0 auto; /* Margin em cima e em baixo é 0 e nas laterais é auto */
+  max-width: 1200px;
+}
+
+/*faz o header fixado e seta o z-index para ficar a frente de tudo que tiver na tela*/
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  border-bottom: var(--border);
+}
+
+.header section {
+  display: flex;
+  align-items: center; /*Alinha os itens na vertical */
+  justify-content: space-between; /*Alinha os itens na horizontal */
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.head-navbar a {
+  margin: 0 1rem;
+  font-size: 1.5rem;
+  color: var(--white-color);
+}
+
+.head-navbar a:hover {
+  color: var(--main-color);
+  border-bottom: 0.1rem solid var(--main-color);
+  padding-bottom: 0.5rem;
+  font-size: 1.6rem;
+}
+
+.icons img {
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.icons img:hover {
+  width: 35px;
+  height: 35px;
+}
