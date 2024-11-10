@@ -1,4 +1,3 @@
-
 <h1 align="center"> Cafeteria Expresso </h1>
 
 <p align="center">
@@ -13,25 +12,23 @@ Projeto proprio criado com a finalidade de treinar o conhecimento em CSS, HTML, 
   <a href="#memo-licença">Licença</a>
 </p>
 
-
 <br>
 
 <p align="center">
   <img alt="Projeto Cafeteria Expresso" src=".github/preview.jpg" width="100%">
 </p>
 <p align="center">
-  <img alt="Projeto Cafeteria Expresso" src=".github/preview2.jpg" width="100%">
+  <img alt="Projeto Cafeteria Expresso" src=".github/preview2.JPG" width="100%">
 </p>
 <p align="center">
-  <img alt="Projeto Cafeteria Expresso" src=".github/preview3.jpg" width="100%">
+  <img alt="Projeto Cafeteria Expresso" src=".github/preview3.JPG" width="100%">
 </p>
 <p align="center">
-  <img alt="Projeto Cafeteria Expresso" src=".github/preview4.jpg" width="100%">
+  <img alt="Projeto Cafeteria Expresso" src=".github/preview4.JPG" width="100%">
 </p>
 <p align="center">
-  <img alt="Projeto Cafeteria Expresso" src=".github/preview5.jpg" width="100%">
+  <img alt="Projeto Cafeteria Expresso" src=".github/preview5.JPG" width="100%">
 </p>
-
 
 ## 👨‍💻 Aprendizado
 
