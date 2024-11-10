@@ -27,7 +27,7 @@ section {
   padding: 3rem 2rem;
   margin: 0 auto; /* Margin em cima e em baixo é 0 e nas laterais é auto */
   max-width: 1200px;
-  border: 1px solid red;
+
 }
 
 /*faz o header fixado e seta o z-index para ficar a frente de tudo que tiver na tela*/
